@@ -6,12 +6,8 @@ export const GlobalStyles = createGlobalStyle`
     margin: 0;
     padding: 0;
   }
+
   body {
-      background-color: ${({ theme }) => theme.primaryDark};
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-    min-height: 100vh;
-    justify-content: center;
-    text-rendering: optimizeLegibility;
-    color: ${({ theme }) => theme.primaryLight};
+    font-family: 'Poppins', sans-serif;
   }
 `;

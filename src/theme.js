@@ -1,9 +1,9 @@
 export const theme = {
-  primaryDark: "#112031",
-  primaryLight: "#FFFFFF",
-  backgroundColor: "#112031",
-  secondaryColor: "#345B63",
-  thirdColor: "#152D35",
-  cardBackground: "#D4ECDD",
+  primaryColor: "#ffffff",
+  secondaryColor: "#dddddd",
+  cardPurple: "#C400FF",
+  cardYellow: "#FAFF00",
+  cardGreen: "#54E346",
+  cardRed: "#ff2626",
   mobile: "576px",
 };
